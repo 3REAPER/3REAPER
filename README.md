@@ -16,7 +16,7 @@
 # Projects
 
 [Pizza shop](https://github.com/3REAPER/pizza-shop)
-App show dish
+App show dish and has tests by junit. Clean Arhitect, MVVM, Single Activity
 
 [Github downloader](https://github.com/3REAPER/github-downloader)  
 In this project I'm getting reposiroties from Gthub API.This app can do save zip to downloads folder, open in brower and save name and owner of downloaded repositoies.
